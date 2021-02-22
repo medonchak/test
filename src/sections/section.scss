@@ -1,0 +1,56 @@
+
+
+
+.section {
+ 
+    left: 321px;
+    top: 173px;
+
+    background: #FFFFFF;
+    border-radius: 16px;
+
+    .but{
+        width: 135px;
+        height: 28px;
+        left: 504px;
+        top: 640px;
+        margin: 15px;
+        border: 1px solid #0083FF;
+        box-sizing: border-box;
+        font-family: Manrope;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 12px;
+        color: #0083FF
+    }
+    .but:hover{
+        border: 1px solid #FF406F;
+        color: #FF406F;
+    }
+  
+}
+.sectionName{
+    margin-right: 80%;
+    width: 116px;
+    height: 32px;
+    left: 323px;
+    top: 104px;
+
+    /* Heading / H5 */
+
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+
+
+    /* Dark Blue / 100 */
+
+    color: #2D4379;
+}
+.butns{
+    margin-right: 40%;
+}
